@@ -1,0 +1,102 @@
+@import 'tailwindcss';
+@tailwind utilities;
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@layer base {
+  html {
+    @apply transition-colors duration-300 ease-in-out;
+    background-color: rgb(15 23 42); /* slate-900 */
+  }
+
+  body {
+    @apply transition-colors duration-300 ease-in-out;
+    background-color: rgb(15 23 42); /* slate-900 */
+  }
+}
+
+html,
+body {
+  background-color: rgb(15 23 42); /* slate-900 */
+}
+
+.swiper-pagination-bullet {
+  background: rgb(99 102 241); /* indigo-500 */
+  opacity: 0.4;
+}
+
+.swiper-pagination-bullet-active {
+  opacity: 1;
+}
+
+* {
+  cursor: none;
+}
+
+.cursor-dot {
+  position: fixed;
+  width: 8px;
+  height: 8px;
+  background: #6366f1; /* indigo */
+  border-radius: 50%;
+  pointer-events: none;
+  transform: translate(-50%, -50%);
+  transition: transform 0.15s ease-out;
+  z-index: 9999;
+}
+
+.cursor-dot.scale {
+  transform: translate(-50%, -50%) scale(2);
+}
+
+.cursor-dot.hover {
+  transform: translate(-50%, -50%) scale(1.6);
+  corner-shape: scoop;
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+}
+
+/* follower */
+.cursor-ring {
+  position: fixed;
+  width: 35px;
+  height: 35px;
+  border: 2px solid rgba(99, 102, 241, 0.5);
+  border-radius: 50%;
+  pointer-events: none;
+  transform: translate(-50%, -50%);
+  transition: all 0.2s ease-out;
+  z-index: 9998;
+}
+
+.cursor-ring.hover {
+  transform: translate(-50%, -50%) scale(1.6);
+  border-color: rgb(176, 180, 186);
+  border-width: 2px;
+}
+
+.cursor-dot,
+.cursor-ring {
+  will-change: transform, left, top;
+}
+
+.cursor-ripple {
+  position: fixed;
+  width: 20px;
+  height: 20px;
+  border: 2px solid rgba(99, 102, 241, 0.5);
+  border-radius: 50%;
+  animation: ripple 0.6s ease-out forwards;
+  pointer-events: none;
+  transform: translate(-50%, -50%);
+}
+
+@keyframes ripple {
+  to {
+    transform: translate(-50%, -50%) scale(3);
+    opacity: 0;
+  }
+}

@@ -1,0 +1,11 @@
+ → 7 → 8 → 9 → 10 → 11 → 12 → 13 → 14 → 15 → 16 → 17 
+→ 18 → 19 → 20 → 21 → 22 → 23 → 24 → 25 → 26 → 27 → 28 → 29
+
+1) Smooth Scroll to Top button – Floating button that appears when user scrolls down. [DONE]
+2) Accordion Sections – For FAQs or detailed country info, like “Economy”, “Culture”, “Tourism”.
+3) Swal Alerts / Toast Notifications – For contact form submission success/error, login errors, favorite added, etc.
+4) Login & Registration Form – Simple authentication (localStorage or Firebase).
+5) Amazing Cursor UI – Custom cursor animations (follower, glow, ripple on click). [DONE]
+6) Add to Favorites (Star a Country) – Users can mark favorite countries; store in localStorage which will be linked to login profile, so user must login before starring
+Favorites Page – Separate page showing all countries user starred.
+7) Skeleton Loaders – For API fetching, better UX than just “Loading...”. [DONE]

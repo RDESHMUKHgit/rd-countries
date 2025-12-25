@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "name": "India",
+    "capital": "New Delhi",
+    "region": "Asia",
+    "population": "1.4B+",
+    "flag": "https://flagcdn.com/w320/in.png",
+    "description": "A land of ancient civilizations, diverse cultures, and rapid technological growth."
+  },
+  {
+    "id": 2,
+    "name": "France",
+    "capital": "Paris",
+    "region": "Europe",
+    "population": "67M+",
+    "flag": "https://flagcdn.com/w320/fr.png",
+    "description": "Known for art, fashion, history, and architectural excellence."
+  },
+  {
+    "id": 3,
+    "name": "Japan",
+    "capital": "Tokyo",
+    "region": "Asia",
+    "population": "125M+",
+    "flag": "https://flagcdn.com/w320/jp.png",
+    "description": "A perfect blend of ancient traditions and cutting-edge technology."
+  },
+  {
+    "id": 4,
+    "name": "Brazil",
+    "capital": "Brasília",
+    "region": "South America",
+    "population": "214M+",
+    "flag": "https://flagcdn.com/w320/br.png",
+    "description": "Famous for rainforests, football, festivals, and vibrant culture."
+  },
+  {
+    "id": 5,
+    "name": "Canada",
+    "capital": "Ottawa",
+    "region": "North America",
+    "population": "38M+",
+    "flag": "https://flagcdn.com/w320/ca.png",
+    "description": "Known for vast landscapes, natural beauty, and multicultural cities."
+  },
+  {
+    "id": 6,
+    "name": "Germany",
+    "capital": "Berlin",
+    "region": "Europe",
+    "population": "83M+",
+    "flag": "https://flagcdn.com/w320/de.png",
+    "description": "A global leader in engineering, culture, and historical significance."
+  },
+  {
+    "id": 7,
+    "name": "Australia",
+    "capital": "Canberra",
+    "region": "Oceania",
+    "population": "26M+",
+    "flag": "https://flagcdn.com/w320/au.png",
+    "description": "Famous for unique wildlife, beaches, and vast outback regions."
+  },
+  {
+    "id": 8,
+    "name": "South Africa",
+    "capital": "Pretoria",
+    "region": "Africa",
+    "population": "60M+",
+    "flag": "https://flagcdn.com/w320/za.png",
+    "description": "Known for diverse wildlife, landscapes, and rich cultural history."
+  },
+  {
+    "id": 9,
+    "name": "Italy",
+    "capital": "Rome",
+    "region": "Europe",
+    "population": "60M+",
+    "flag": "https://flagcdn.com/w320/it.png",
+    "description": "Home to ancient ruins, world-class art, and culinary excellence."
+  },
+  {
+    "id": 10,
+    "name": "China",
+    "capital": "Beijing",
+    "region": "Asia",
+    "population": "1.4B+",
+    "flag": "https://flagcdn.com/w320/cn.png",
+    "description": "A powerhouse of technology, history, and diverse landscapes."
+  },
+  {
+    "id": 11,
+    "name": "Egypt",
+    "capital": "Cairo",
+    "region": "Africa",
+    "population": "110M+",
+    "flag": "https://flagcdn.com/w320/eg.png",
+    "description": "Famous for ancient pyramids, Nile river, and rich cultural heritage."
+  },
+  {
+    "id": 12,
+    "name": "Mexico",
+    "capital": "Mexico City",
+    "region": "North America",
+    "population": "128M+",
+    "flag": "https://flagcdn.com/w320/mx.png",
+    "description": "Known for its vibrant culture, cuisine, and historical landmarks."
+  },
+  {
+    "id": 13,
+    "name": "Russia",
+    "capital": "Moscow",
+    "region": "Europe/Asia",
+    "population": "146M+",
+    "flag": "https://flagcdn.com/w320/ru.png",
+    "description": "The largest country in the world with diverse landscapes and culture."
+  },
+  {
+    "id": 14,
+    "name": "United Kingdom",
+    "capital": "London",
+    "region": "Europe",
+    "population": "68M+",
+    "flag": "https://flagcdn.com/w320/gb.png",
+    "description": "Rich history, monarchy, and influential culture worldwide."
+  },
+  {
+    "id": 15,
+    "name": "Argentina",
+    "capital": "Buenos Aires",
+    "region": "South America",
+    "population": "45M+",
+    "flag": "https://flagcdn.com/w320/ar.png",
+    "description": "Famous for tango, football passion, and stunning natural landscapes."
+  }
+]

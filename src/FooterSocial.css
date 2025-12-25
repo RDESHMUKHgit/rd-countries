@@ -1,0 +1,68 @@
+.social-icons {
+  display: flex;
+  gap: 1rem;
+}
+
+/* Base button style */
+.social-icons svg {
+  width: 2rem;
+  height: 2rem;
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+  background-color: white;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  display: inline-block;
+}
+
+/* Hover scale & shadow */
+.social-icons svg:hover {
+  transform: scale(1.2);
+  filter: drop-shadow(0 0 6px rgba(0, 0, 0, 0.25));
+}
+
+/* Facebook */
+.social-icons svg.facebook {
+  color: #1877f2;
+  background-color: white;
+}
+.social-icons svg.facebook:hover {
+  background-color: #e7f0ff;
+}
+
+/* Twitter */
+.social-icons svg.twitter {
+  color: #1da1f2;
+  background-color: white;
+}
+.social-icons svg.twitter:hover {
+  background-color: #e0f4ff;
+}
+
+/* LinkedIn */
+.social-icons svg.linkedin {
+  color: #0077b5;
+  background-color: white;
+}
+.social-icons svg.linkedin:hover {
+  background-color: #dceeff;
+}
+
+/* Instagram gradient */
+.social-icons svg.instagram {
+  color: #fff;
+  background: linear-gradient(
+    45deg,
+    #feda75,
+    #fa7e1e,
+    #d62976,
+    #962fbf,
+    #4f5bd5
+  );
+}
+.social-icons svg.instagram:hover {
+  filter: brightness(1.2) drop-shadow(0 0 8px rgba(0, 0, 0, 0.3));
+}
+.social-icons svg.instagram path {
+  fill: currentColor;
+}
