@@ -1,0 +1,346 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "answer": "The capital of France is Paris, a major European city known for its art, fashion, gastronomy, and culture. Iconic landmarks include the Eiffel Tower, Notre-Dame Cathedral, and the Louvre Museum, which houses the Mona Lisa."
+  },
+  {
+    "question": "Which country has the largest population?",
+    "answer": "China currently has the largest population in the world, with over 1.4 billion people. The country has a rich history spanning thousands of years, diverse cultures, and is known for landmarks like the Great Wall, the Forbidden City, and its influential role in global economics."
+  },
+  {
+    "question": "Which is the smallest country by area?",
+    "answer": "Vatican City is the smallest country in the world by area, covering just 44 hectares. It is the spiritual and administrative center of the Roman Catholic Church, home to the Pope, and contains masterpieces like St. Peter's Basilica and the Sistine Chapel."
+  },
+  {
+    "question": "What is the longest river in the world?",
+    "answer": "The Nile River, flowing through northeastern Africa, is considered the longest river in the world, stretching approximately 6,650 kilometers. It has been vital for agriculture, trade, and the development of ancient civilizations such as Egypt."
+  },
+  {
+    "question": "Which country has the most time zones?",
+    "answer": "France has the most time zones in the world if you include its overseas territories, totaling 12 different time zones. This is because France possesses several islands and territories scattered across the globe, from the Caribbean to the Pacific Ocean."
+  },
+  {
+    "question": "Which continent is known as the 'Dark Continent'?",
+    "answer": "Africa was historically referred to as the 'Dark Continent' due to European explorers in the 19th century having limited knowledge of its geography and cultures. Today, Africa is recognized for its diverse landscapes, wildlife, and rich cultural heritage."
+  },
+  {
+    "question": "What is the highest mountain in the world?",
+    "answer": "Mount Everest, located in the Himalayas on the border between Nepal and China, is the highest mountain on Earth, standing at 8,848 meters (29,029 feet) above sea level. It attracts climbers from around the world, though scaling it is extremely challenging due to harsh conditions."
+  },
+  {
+    "question": "Which country has the largest land area?",
+    "answer": "Russia has the largest land area of any country, spanning over 17 million square kilometers across Eastern Europe and northern Asia. It covers multiple time zones, has diverse climates, and is rich in natural resources like oil, gas, and minerals."
+  },
+  {
+    "question": "Which is the smallest ocean in the world?",
+    "answer": "The Arctic Ocean is the smallest and shallowest of the world's oceans, located around the Arctic region. It is crucial for global climate regulation, sea ice dynamics, and is home to unique wildlife such as polar bears, seals, and walruses."
+  },
+  {
+    "question": "Which desert is the largest in the world?",
+    "answer": "The Antarctic Desert is the largest desert in terms of area, covering about 14 million square kilometers. Despite being icy, it meets the desert definition due to extremely low precipitation. It hosts unique research stations and wildlife adapted to the extreme cold."
+  },
+  {
+    "question": "Which country is known as the 'Land of the Rising Sun'?",
+    "answer": "Japan is called the 'Land of the Rising Sun' because it lies to the east of the Asian continent. The country is renowned for its unique blend of traditional culture, including temples and tea ceremonies, and cutting-edge technology, including robotics and high-speed trains."
+  },
+  {
+    "question": "Which river flows through Egypt?",
+    "answer": "The Nile River flows through Egypt, providing fertile land and water resources that have sustained civilization for thousands of years. Its significance in ancient Egypt is legendary, supporting agriculture, trade, and enabling the rise of the pharaohs."
+  },
+  {
+    "question": "What is the largest island in the world?",
+    "answer": "Greenland is the largest island in the world that is not a continent, covering over 2 million square kilometers. Much of it is covered by an ice sheet, and it has a sparse population, rich Inuit culture, and stunning Arctic landscapes."
+  },
+  {
+    "question": "Which country is known for its fjords?",
+    "answer": "Norway is famous for its fjords, which are steep-sided valleys carved by glaciers and filled with seawater. The fjords are celebrated for their breathtaking scenery, popular with tourists, hikers, and cruise travelers seeking natural beauty and adventure."
+  },
+  {
+    "question": "Which is the longest river in Asia?",
+    "answer": "The Yangtze River is the longest river in Asia and the third-longest in the world, flowing over 6,300 kilometers through China. It is a major source of water, transportation, and hydroelectric power, with the Three Gorges Dam being a notable landmark along its course."
+  },
+  {
+    "question": "Which continent has the most countries?",
+    "answer": "Africa has the most countries of any continent, with 54 recognized nations. The continent is known for its incredible cultural, linguistic, and ecological diversity, ranging from vast deserts to tropical rainforests and savannas."
+  },
+  {
+    "question": "Which country is known as the 'Pearl of Africa'?",
+    "answer": "Uganda is called the 'Pearl of Africa' due to its breathtaking landscapes, rich biodiversity, and abundant natural resources. It is home to majestic mountains, lakes, rivers, and diverse wildlife including mountain gorillas and chimpanzees."
+  },
+  {
+    "question": "Which country is home to the Great Barrier Reef?",
+    "answer": "Australia is home to the Great Barrier Reef, the world's largest coral reef system stretching over 2,300 kilometers. It is a UNESCO World Heritage site and a hotspot for marine biodiversity, attracting divers and marine scientists globally."
+  },
+  {
+    "question": "What is the capital of Canada?",
+    "answer": "The capital of Canada is Ottawa, located in the province of Ontario. The city is known for its national museums, historic landmarks, and government buildings, including Parliament Hill, as well as its vibrant cultural scene."
+  },
+  {
+    "question": "Which country has the most volcanoes?",
+    "answer": "Indonesia has the highest number of active volcanoes in the world, due to its location on the Pacific Ring of Fire. These volcanoes play a crucial role in shaping the country’s landscape and fertile soils but also pose risks to nearby populations."
+  },
+  {
+    "question": "Which European country is famous for tulips?",
+    "answer": "The Netherlands is famous for its tulip fields, especially during the spring season. Tulip cultivation has a long history in the country and is a symbol of Dutch horticulture, attracting millions of tourists to gardens like Keukenhof."
+  },
+  {
+    "question": "Which desert covers much of northern Africa?",
+    "answer": "The Sahara Desert covers much of northern Africa, spanning over 9 million square kilometers. It is the largest hot desert in the world, featuring sand dunes, rocky plateaus, and sparse oases, and has been home to human settlements for thousands of years."
+  },
+  {
+    "question": "Which country is known for the Eiffel Tower?",
+    "answer": "France is famous for the Eiffel Tower located in Paris. Built in 1889, it is a symbol of French art and engineering and one of the most visited monuments in the world. Paris is also renowned for its museums, cuisine, and cultural heritage."
+  },
+  {
+    "question": "Which country is the largest in South America?",
+    "answer": "Brazil is the largest country in South America, covering nearly half of the continent’s landmass. It is known for the Amazon rainforest, diverse wildlife, vibrant cities like Rio de Janeiro, and rich cultural traditions including Carnival."
+  },
+  {
+    "question": "Which is the deepest ocean in the world?",
+    "answer": "The Pacific Ocean is the deepest ocean in the world, reaching a maximum depth of approximately 11,034 meters in the Mariana Trench. It is home to diverse ecosystems, from coral reefs to deep-sea vents, and influences global climate patterns."
+  },
+  {
+    "question": "Which river flows through London?",
+    "answer": "The River Thames flows through London, England. It has played a central role in the city’s history, trade, and development, with iconic landmarks such as the Tower Bridge and the Houses of Parliament lining its banks."
+  },
+  {
+    "question": "Which country has the largest number of islands?",
+    "answer": "Sweden has the largest number of islands in the world, with over 267,000 islands, though many are uninhabited. These islands feature scenic landscapes, cultural heritage sites, and offer opportunities for boating and nature tourism."
+  },
+  {
+    "question": "Which country is famous for the Amazon rainforest?",
+    "answer": "Brazil is famous for the Amazon rainforest, which spans millions of square kilometers and is home to unparalleled biodiversity. It plays a critical role in regulating the Earth’s climate and is vital for the survival of countless species of plants and animals."
+  },
+  {
+    "question": "Which city is known as the 'City of Canals'?",
+    "answer": "Venice, in Italy, is known as the 'City of Canals' because of its extensive canal network. The city is famous for gondola rides, historic architecture, St. Mark’s Basilica, and its unique urban design built on over 100 islands in a lagoon."
+  },
+  {
+    "question": "Which country has the largest economy?",
+    "answer": "The United States has the largest economy in the world, driven by diverse industries including technology, finance, agriculture, and manufacturing. It is also a global leader in innovation, trade, and cultural influence."
+  },
+  {
+    "question": "Which is the longest river in Europe?",
+    "answer": "The Volga River is the longest river in Europe, flowing entirely within Russia for about 3,530 kilometers. It is historically significant for trade and transportation and supports a range of cities and communities along its course."
+  },
+  {
+    "question": "Which country is home to the Taj Mahal?",
+    "answer": "India is home to the Taj Mahal, an iconic white marble mausoleum built by Emperor Shah Jahan in memory of his wife Mumtaz Mahal. It is a UNESCO World Heritage site and a symbol of love, attracting millions of tourists each year."
+  },
+  {
+    "question": "Which country is known as the 'Land of Fire and Ice'?",
+    "answer": "Iceland is called the 'Land of Fire and Ice' due to its combination of active volcanoes and glaciers. It is famous for its stunning landscapes, geysers, waterfalls, hot springs, and the Northern Lights, making it a popular destination for nature enthusiasts."
+  },
+  {
+    "question": "What is the capital of Japan?",
+    "answer": "The capital of Japan is Tokyo, a bustling metropolis known for its advanced technology, skyscrapers, historic temples, and vibrant culture. It blends traditional and modern lifestyles, offering a wide range of culinary, entertainment, and shopping experiences."
+  },
+  {
+    "question": "Which country is famous for the Great Wall?",
+    "answer": "China is famous for the Great Wall of China, an ancient fortification stretching over 21,000 kilometers. Built to protect against invasions, it is a symbol of China’s historical strength and engineering prowess."
+  },
+  {
+    "question": "Which country is known for maple syrup?",
+    "answer": "Canada is known for producing maple syrup, particularly in the provinces of Quebec and Ontario. Maple syrup is made from the sap of sugar maple trees and is an important part of Canadian culture and cuisine."
+  },
+  {
+    "question": "Which country has the longest coastline?",
+    "answer": "Canada has the longest coastline in the world, stretching over 202,000 kilometers. Its diverse coastal regions include Arctic tundras, rocky shores, and temperate rainforests, providing habitats for a wide variety of wildlife."
+  },
+  {
+    "question": "Which country is called the 'Land of a Thousand Lakes'?",
+    "answer": "Finland is called the 'Land of a Thousand Lakes' because it has more than 187,000 lakes. These lakes are central to Finnish culture, offering scenic beauty, fishing, boating, and recreational activities."
+  },
+  {
+    "question": "Which river flows through Paris?",
+    "answer": "The Seine River flows through Paris, France, dividing the city into the Left Bank and Right Bank. The river is lined with historic monuments, bridges, and cultural landmarks, making it an iconic feature of the city."
+  },
+  {
+    "question": "Which country has the largest Muslim population?",
+    "answer": "Indonesia has the largest Muslim population in the world, with over 230 million followers. Islam plays a central role in the country’s culture, traditions, and daily life, with numerous mosques and religious festivals."
+  },
+  {
+    "question": "Which mountain range separates Europe and Asia?",
+    "answer": "The Ural Mountains in Russia separate Europe from Asia. They are rich in minerals, forests, and wildlife and have historically served as a geographical boundary between the two continents."
+  },
+  {
+    "question": "Which country is famous for sushi?",
+    "answer": "Japan is famous for sushi, a culinary tradition that involves rice, raw fish, and other ingredients. Sushi reflects Japanese culture and craftsmanship and is celebrated worldwide as a symbol of Japanese cuisine."
+  },
+  {
+    "question": "Which desert is located in the USA?",
+    "answer": "The Mojave Desert is located in the southwestern United States, primarily in California and Nevada. It is known for its arid landscapes, Joshua trees, and extreme temperatures, and attracts hikers and nature enthusiasts."
+  },
+  {
+    "question": "Which country is home to the Serengeti National Park?",
+    "answer": "Tanzania is home to the Serengeti National Park, famous for its annual wildebeest migration, diverse wildlife including lions, elephants, and cheetahs, and stunning savanna landscapes. It is a UNESCO World Heritage site and a major safari destination."
+  },
+  {
+    "question": "Which country has the highest waterfall?",
+    "answer": "Venezuela has the highest waterfall in the world, Angel Falls, which drops 979 meters from the Auyán-tepui cliff. It is located in Canaima National Park and is a breathtaking natural wonder attracting adventurers and tourists."
+  },
+  {
+    "question": "Which is the smallest continent?",
+    "answer": "Australia is the smallest continent in the world, comprising the mainland of Australia, Tasmania, and other smaller islands. Despite its size, it has diverse ecosystems, including deserts, rainforests, and coral reefs."
+  },
+  {
+    "question": "Which country has the largest oil reserves?",
+    "answer": "Venezuela has the largest proven oil reserves in the world, primarily located in the Orinoco Belt. The oil industry is central to the country’s economy, though it has faced challenges in production and global energy markets."
+  },
+  {
+    "question": "Which city is the capital of Australia?",
+    "answer": "The capital of Australia is Canberra, designed specifically to serve as the nation's political center. It houses government buildings, embassies, and cultural institutions like the National Gallery and the Australian War Memorial."
+  },
+  {
+    "question": "Which country is known for its wine production?",
+    "answer": "France is renowned for its wine production, with regions such as Bordeaux, Burgundy, and Champagne producing world-famous varieties. French wine culture has a long history and is deeply intertwined with the country’s cuisine and traditions."
+  },
+  {
+    "question": "Which country is famous for its pyramids?",
+    "answer": "Egypt is famous for its ancient pyramids, including the Great Pyramid of Giza, built as tombs for pharaohs. These structures reflect the advanced engineering, religious beliefs, and cultural achievements of ancient Egyptian civilization."
+  },
+  {
+    "question": "Which country is known as the 'Land of Volcanoes'?",
+    "answer": "Iceland is called the 'Land of Volcanoes' because of its frequent volcanic activity. The country sits on the Mid-Atlantic Ridge, and its volcanic landscape includes geysers, lava fields, and geothermal hot springs."
+  },
+  {
+    "question": "Which country has the largest rainforest?",
+    "answer": "Brazil has the largest rainforest in the world, the Amazon Rainforest. It is home to incredible biodiversity, including thousands of species of plants, animals, and insects, and plays a crucial role in regulating the Earth's climate."
+  },
+  {
+    "question": "Which country is known as the 'Land of a Thousand Hills'?",
+    "answer": "Rwanda is called the 'Land of a Thousand Hills' due to its rolling hilly landscape. It is known for its mountain gorillas, scenic scenery, and national parks, making it a popular destination for eco-tourism and wildlife enthusiasts."
+  },
+  {
+    "question": "Which city is known as the 'Eternal City'?",
+    "answer": "Rome, the capital of Italy, is known as the 'Eternal City.' It has a rich history dating back thousands of years, with iconic landmarks such as the Colosseum, Roman Forum, Vatican City, and countless ancient ruins."
+  },
+  {
+    "question": "Which country is famous for its fjords in Scandinavia?",
+    "answer": "Norway is famous for its dramatic fjords, deep glacial valleys filled with seawater, carved by glaciers over thousands of years. Popular fjords include Geirangerfjord and Nærøyfjord, attracting tourists for cruising and photography."
+  },
+  {
+    "question": "Which country has the largest freshwater lake by area?",
+    "answer": "Lake Superior, located in Canada and the United States, is the largest freshwater lake by surface area in the world. It covers over 82,000 square kilometers and is renowned for its clear waters, forests, and biodiversity."
+  },
+  {
+    "question": "Which country has the highest population density?",
+    "answer": "Monaco has the highest population density in the world, with thousands of people living in a very small area. The city-state is known for its luxury lifestyle, casinos, and Mediterranean coastline."
+  },
+  {
+    "question": "Which country is famous for its tulip festivals?",
+    "answer": "The Netherlands is famous for its tulip festivals, especially in spring, when vibrant fields bloom across the country. The Keukenhof Gardens showcase millions of flowers, attracting tourists from around the globe."
+  },
+  {
+    "question": "Which country is known for its maple trees and autumn foliage?",
+    "answer": "Canada is famous for its maple trees and the stunning colors of autumn foliage, particularly in regions like Quebec and Ontario. The vibrant reds, oranges, and yellows attract photographers and tourists each fall."
+  },
+  {
+    "question": "Which country is home to Mount Kilimanjaro?",
+    "answer": "Tanzania is home to Mount Kilimanjaro, Africa’s highest peak at 5,895 meters. This dormant volcano is a popular trekking destination and is surrounded by unique ecosystems including rainforests, moorlands, and alpine deserts."
+  },
+  {
+    "question": "Which country is known for the historic Inca city of Machu Picchu?",
+    "answer": "Peru is known for Machu Picchu, an ancient Inca citadel located high in the Andes Mountains. Built in the 15th century, it is famous for its archaeological significance, breathtaking views, and well-preserved ruins."
+  },
+  {
+    "question": "Which country is famous for its cherry blossoms?",
+    "answer": "Japan is famous for its cherry blossom season (Sakura) in spring. The blooming of cherry trees is celebrated with festivals and hanami (flower viewing) parties, attracting visitors to cities like Tokyo, Kyoto, and Hokkaido."
+  },
+  {
+    "question": "Which country is home to the historic city of Petra?",
+    "answer": "Jordan is home to Petra, a UNESCO World Heritage site and one of the New Seven Wonders of the World. Known as the 'Rose City' for its pink sandstone cliffs, Petra features ancient tombs, temples, and a complex water system."
+  },
+  {
+    "question": "Which country is known for the Taj Mahal?",
+    "answer": "India is renowned for the Taj Mahal, a UNESCO World Heritage site built by Emperor Shah Jahan in memory of his wife Mumtaz Mahal. The white marble mausoleum is celebrated for its architectural beauty, gardens, and symbolism of eternal love."
+  },
+  {
+    "question": "Which country is famous for its geysers and geothermal activity?",
+    "answer": "Iceland is famous for its geysers, hot springs, and geothermal activity. The Strokkur geyser erupts every few minutes, while the country also offers geothermal spas like the Blue Lagoon and stunning volcanic landscapes."
+  },
+  {
+    "question": "Which country is home to the historic city of Petra?",
+    "answer": "Jordan is home to Petra, a UNESCO World Heritage site and one of the New Seven Wonders of the World. Known as the 'Rose City' for its pink sandstone cliffs, Petra features ancient tombs, temples, and a complex water system."
+  },
+  {
+    "question": "Which country is known for the historic Acropolis?",
+    "answer": "Greece is famous for the Acropolis of Athens, an ancient citadel featuring historic monuments like the Parthenon. It is a symbol of classical architecture, democracy, and the cultural achievements of ancient Greece."
+  },
+  {
+    "question": "Which country is famous for the Sahara Desert?",
+    "answer": "Several countries in North Africa, including Algeria, Libya, Egypt, and Morocco, share the Sahara Desert. The desert spans over 9 million square kilometers, making it the largest hot desert in the world, known for dunes, oases, and nomadic cultures."
+  },
+  {
+    "question": "Which country has the largest number of UNESCO World Heritage Sites?",
+    "answer": "Italy has the largest number of UNESCO World Heritage Sites, with over 58 sites recognized globally. These include historic cities, archaeological sites, and landmarks like Venice, Pompeii, and the Colosseum in Rome."
+  },
+  {
+    "question": "Which country is known for its volcanic island of Santorini?",
+    "answer": "Greece is known for the volcanic island of Santorini, famous for its whitewashed buildings, blue domes, and stunning sunsets. The island was shaped by a massive volcanic eruption thousands of years ago, creating its unique caldera."
+  },
+  {
+    "question": "Which country is famous for its fjords and northern lights?",
+    "answer": "Norway is famous for its dramatic fjords and the aurora borealis (Northern Lights). Tourists visit regions like Tromsø and Lofoten to experience spectacular natural scenery, wildlife, and cultural experiences."
+  },
+  {
+    "question": "Which country is known for the historic city of Kyoto?",
+    "answer": "Japan is known for Kyoto, a city famous for its temples, shrines, traditional tea houses, and preserved geisha districts. It was the capital of Japan for over a thousand years and remains a cultural and spiritual center."
+  },
+  {
+    "question": "Which country is famous for its hot air balloon festivals?",
+    "answer": "Turkey is famous for its hot air balloon festivals in Cappadocia, where colorful balloons float over unique rock formations and valleys. The region offers breathtaking panoramic views and attracts travelers worldwide."
+  },
+  {
+    "question": "Which country is home to the Galápagos Islands?",
+    "answer": "Ecuador is home to the Galápagos Islands, a volcanic archipelago in the Pacific Ocean. The islands are renowned for their unique biodiversity, which inspired Charles Darwin’s theory of evolution, and are protected as a national park and UNESCO site."
+  },
+  {
+    "question": "Which country is known for its ancient temples of Angkor?",
+    "answer": "Cambodia is famous for the ancient temples of Angkor, including Angkor Wat, the largest religious monument in the world. The temples reflect the ingenuity of the Khmer Empire and attract tourists for their intricate carvings and history."
+  },
+  {
+    "question": "Which country is famous for its historic castles?",
+    "answer": "Scotland is famous for its historic castles, including Edinburgh Castle, Stirling Castle, and Eilean Donan Castle. These castles reflect Scotland’s rich history, medieval architecture, and cultural heritage."
+  },
+  {
+    "question": "Which country is known for the Victoria Falls?",
+    "answer": "Zambia and Zimbabwe share the Victoria Falls, one of the largest and most spectacular waterfalls in the world. Known locally as 'Mosi-oa-Tunya' or 'The Smoke that Thunders,' the falls attract tourists and adventure seekers."
+  },
+  {
+    "question": "Which country is home to the historic city of Bagan?",
+    "answer": "Myanmar is home to Bagan, an ancient city with thousands of Buddhist temples, pagodas, and monasteries dating back to the 9th century. It is a major archaeological site and a center of cultural heritage in Southeast Asia."
+  },
+  {
+    "question": "Which country is famous for its Great Ocean Road?",
+    "answer": "Australia is famous for the Great Ocean Road, a scenic coastal drive along the southeastern coast. It features dramatic cliffs, beaches, forests, and landmarks such as the Twelve Apostles rock formations."
+  },
+  {
+    "question": "Which country is known for its historic city of Fez?",
+    "answer": "Morocco is famous for the city of Fez, known for its medieval architecture, ancient medina, leather tanneries, and cultural heritage. Fez is a UNESCO World Heritage site and a hub for Moroccan art and craftsmanship."
+  },
+  {
+    "question": "Which country is famous for its Northern Lights viewing in Lapland?",
+    "answer": "Finland, particularly the Lapland region, is famous for viewing the Northern Lights. Tourists can also enjoy activities like husky sledding, reindeer safaris, and staying in glass igloos under the aurora."
+  },
+  {
+    "question": "Which country is home to the Dead Sea?",
+    "answer": "Israel and Jordan share the Dead Sea, the lowest point on Earth’s surface at 430 meters below sea level. The sea is known for its high salt concentration, therapeutic mud, and mineral-rich waters."
+  },
+  {
+    "question": "Which country is known for its historic city of Dubrovnik?",
+    "answer": "Croatia is famous for Dubrovnik, a coastal city known for its medieval walls, Old Town, and stunning Adriatic views. It has also been a filming location for the series 'Game of Thrones.'"
+  },
+  {
+    "question": "Which country is famous for the fjords of Geirangerfjord and Nærøyfjord?",
+    "answer": "Norway is famous for Geirangerfjord and Nærøyfjord, UNESCO World Heritage Sites known for steep cliffs, waterfalls, and pristine natural beauty. These fjords attract hikers, photographers, and nature enthusiasts."
+  },
+  {
+    "question": "Which country is home to Mount Fuji?",
+    "answer": "Japan is home to Mount Fuji, an iconic and sacred mountain standing at 3,776 meters. It is a popular destination for climbers, photographers, and tourists, and is a UNESCO World Heritage Site."
+  },
+  {
+    "question": "Which country is famous for the Great Smoky Mountains?",
+    "answer": "The United States is home to the Great Smoky Mountains National Park, located on the border of Tennessee and North Carolina. Known for misty peaks, dense forests, and diverse wildlife, it is a UNESCO World Heritage site."
+  }
+]

@@ -10,6 +10,7 @@ import CountryDetail from './Pages/CountryDetail';
 import AppLayout from './Components/Layout/AppLayout';
 import ErrorPage from './Pages/ErrorPage';
 import Loader from './Components/Loader';
+import AllFAQ from './Pages/AllFAQ';
 
 const mainRouter = createBrowserRouter([
   {
@@ -22,6 +23,7 @@ const mainRouter = createBrowserRouter([
       { path: '/contact', element: <Contact /> },
       { path: '/country', element: <Country /> },
       { path: '/country/:code', element: <CountryDetail /> }, // dynamic page
+      { path: '/faqs', element: <AllFAQ /> }, // <-- new route
     ],
   },
 ]);

@@ -2,6 +2,7 @@ import React from 'react';
 import { NavLink } from 'react-router-dom';
 import { FaArrowRight } from 'react-icons/fa6';
 import FeaturedCountries from '../Components/FeaturedCountries';
+import HomeFAQ from '../Components/HomeFAQ';
 
 const Home = () => {
   return (
@@ -53,6 +54,9 @@ const Home = () => {
         </div>
         <div className="py-20">
           <FeaturedCountries />
+        </div>
+        <div className="py-20">
+          <HomeFAQ />
         </div>
       </div>
     </section>

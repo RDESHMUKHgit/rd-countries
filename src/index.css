@@ -6,12 +6,10 @@
 @layer base {
   html {
     @apply transition-colors duration-300 ease-in-out;
-    background-color: rgb(15 23 42); /* slate-900 */
   }
 
   body {
     @apply transition-colors duration-300 ease-in-out;
-    background-color: rgb(15 23 42); /* slate-900 */
   }
 }
 
@@ -30,7 +28,7 @@ body {
 }
 
 * {
-  cursor: none;
+  /* cursor: ; */
 }
 
 .cursor-dot {
