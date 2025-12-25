@@ -17,6 +17,33 @@ html,
 body {
   background-color: rgb(15 23 42); /* slate-900 */
 }
+/* Global text selection style */
+::selection {
+  background-color: #d4fe0008;
+  color: #f472b6;
+  text-shadow: 0 0 2px rgba(0, 0, 0, 0.5);
+  font-weight: 900;
+  font-size: 1.05em;
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+}
+
+/* For Firefox */
+::-moz-selection {
+  background-color: #d4fe0008;
+  color: #f472b6;
+  text-shadow: 0 0 2px rgba(0, 0, 0, 0.5);
+  font-weight: 900;
+  font-size: 1.05em;
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+}
 
 .swiper-pagination-bullet {
   background: rgb(99 102 241); /* indigo-500 */
